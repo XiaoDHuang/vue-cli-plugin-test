@@ -1,0 +1,14 @@
+{
+  "name": "vue-cli-plugin-test-awsome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xxxxxx"
+  },
+  "keywords": [
+    "vue-cli-plugin-test"
+  ],
+  "author": "XiaoDHuang",
+  "license": "MIT"
+}
